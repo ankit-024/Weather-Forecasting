@@ -29,7 +29,7 @@ https://the-weather-forecast-app.vercel.app
 - Clone the repository:
 
 ```bash
-git clone https://github.com/Amin-Awinti/the-weather-forecasting.git
+git clone [https://github.com/ankit-024/Weather-Forecasting.git]
 
 ```
 
